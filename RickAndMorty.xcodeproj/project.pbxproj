@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		5ACA71532D78E77C00D3C5B1 /* Exceptions for "RickAndMorty" folder in "RickAndMorty" target */ = {
+		5ACA716A2D78EB1600D3C5B1 /* Exceptions for "RickAndMorty" folder in "RickAndMorty" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -24,7 +24,7 @@
 		5ACA71432D78E77B00D3C5B1 /* RickAndMorty */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				5ACA71532D78E77C00D3C5B1 /* Exceptions for "RickAndMorty" folder in "RickAndMorty" target */,
+				5ACA716A2D78EB1600D3C5B1 /* Exceptions for "RickAndMorty" folder in "RickAndMorty" target */,
 			);
 			path = RickAndMorty;
 			sourceTree = "<group>";
@@ -45,8 +45,8 @@
 		5ACA71382D78E77B00D3C5B1 = {
 			isa = PBXGroup;
 			children = (
-				5ACA71432D78E77B00D3C5B1 /* RickAndMorty */,
 				5ACA71422D78E77B00D3C5B1 /* Products */,
+				5ACA71432D78E77B00D3C5B1 /* RickAndMorty */,
 			);
 			sourceTree = "<group>";
 		};
@@ -149,7 +149,6 @@
 				INFOPLIST_FILE = RickAndMorty/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -176,7 +175,6 @@
 				INFOPLIST_FILE = RickAndMorty/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
