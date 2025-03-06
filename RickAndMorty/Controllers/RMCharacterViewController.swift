@@ -7,7 +7,8 @@
 
 import UIKit
 
-final class RMCharacterViewController: UIViewController {
+/// Controller to Show and search for Character
+ final class RMCharacterViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
