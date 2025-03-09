@@ -20,7 +20,7 @@ private init(){}
     /// - Parameters:
     ///   - _request: Request instance
     ///   - completion: Callback With data or error
-    public func excute(_request:RMRequest , completion: @escaping () -> Void )
+    public func excute<T: Codable>(_request:RMRequest , expecting type :T.Type, completion: @escaping ( Result<T , Error>) -> Void )
     {
         
     }
